@@ -31,7 +31,7 @@ RUN \
 # Install dependencies.
 RUN \
     add-pkg \
-        openjdk8-jre \
+        openjdk17-jre \
         libstdc++ \
         ttf-dejavu \
         # For ffmpeg and ffprobe tools.
